@@ -4,7 +4,7 @@
   "description": "Simple NPM module with dependencies for testing",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -16,5 +16,8 @@
     "updater"
   ],
   "author": "Gleb Bahmutov <gleb.bahmutov@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "check-types": "~0.6.5"
+  }
 }
