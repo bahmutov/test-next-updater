@@ -1,6 +1,6 @@
 {
   "name": "test-next-updater",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Simple NPM module with dependencies for testing",
   "main": "index.js",
   "scripts": {
